@@ -19,9 +19,9 @@ Analyzed to find:
 ---
  
 Monthly Sales Trend
-This chart shows the revenue trend over different months based on sales data.
 
 ![Monthly Sales Trend](monthly_sales_trend.png)
+
 
 
 - **Top Product:** Laptop  

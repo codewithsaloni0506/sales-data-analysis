@@ -17,10 +17,12 @@ Analyzed to find:
 - Best-performing sales reps
 
 ---
+ 
+Monthly Sales Trend
+This chart shows the revenue trend over different months based on sales data.
 
- Key Insights & Visuals
+![Monthly Sales Trend](monthly_sales_trend.png)
 
-![Monthly Revenue Trend](media/monthly_sales_trend.png)
 
 - **Top Product:** Laptop  
 - **Best Month:** March 2024  

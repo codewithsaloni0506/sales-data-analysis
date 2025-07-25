@@ -1,30 +1,41 @@
 Sales Data Analysis
 
-This project explores a fictional company’s sales data to extract key business insights using Python.
+This project explores a fictional company's monthly sales data using Python and data visualization.
+
+---
 
  Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Google Colab / Jupyter Notebook
+- Python, Pandas, Matplotlib, Seaborn
+- Google Colab (notebook environment)
 
-Insights
-- **Top Product:** Laptop
-- **Best Sales Month:** March 2024
-- **Top Sales Rep:** Sakura
+---
 
-Files
-- `sales_data.csv` – Raw dataset
-- `Sales_Data_Analysis.ipynb` – Main analysis notebook
+ Motivation & Summary  
+Analyzed to find:
+- Top-selling product  
+- Peak sales months  
+- Best-performing sales reps
 
-Monthly Sales Trend
-  ![Monthly Sales](monthly_sales_trend.png)
+---
 
- Key Insights:
-- The most revenue came from the **Laptop** category.
-- **March 2024** had the highest sales overall.
-- **Sakura** and **Haruto** were the top-performing sales reps.
+ Key Insights & Visuals
 
- Conclusion:
-The company should focus marketing efforts on laptops and consider giving bonuses to top reps.
+![Monthly Revenue Trend](media/monthly_sales_trend.png)
+
+- **Top Product:** Laptop  
+- **Best Month:** March 2024  
+- **Top Rep:** Sakura  
+
+---
+
+ Files
+| Filename                  | Description                     |
+|---------------------------|---------------------------------|
+| `sales_data.csv`         | Raw dataset                     |
+| `Sales_Data_Analysis.ipynb` | Analysis notebook              |
+| `media/monthly_sales_trend.png` | Visual chart image           |
+
+---
+
+## ⭐ Like This Repo?  
+Give it a ⭐ if you found it helpful!

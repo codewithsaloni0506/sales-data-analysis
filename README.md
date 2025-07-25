@@ -18,6 +18,9 @@ Files
 - `sales_data.csv` – Raw dataset
 - `Sales_Data_Analysis.ipynb` – Main analysis notebook
 
+Monthly Sales Trend
+  ![Monthly Sales](monthly_sales_trend.png)
+
  Key Insights:
 - The most revenue came from the **Laptop** category.
 - **March 2024** had the highest sales overall.
